@@ -66,30 +66,36 @@ SELECT employees.emp_no, birth_date, first_name, last_name,
 	 titles.to_date
 INTO retirement_titles
 FROM titles	
-WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31');
 INNER JOIN employees
-ON employees.emp_no = titles.emp_no;
+ON employees.emp_no = titles.emp_no
+WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31')
+ORDER BY employees.emp_no;
 
-SELECT * FROM Retirement_Titles
+--SELECT * FROM retirement_titles
+--DROP TABLE retirement_titles
 
---ORDER BY employees.emp_no
-
-SELECT *
+--Use the Distinct ON statement to retrieve the first occurance of the emp_no
+--for each set of rows defined by the ON() clause.
+SELECT DISTINCT ON (retirement_titles.emp_no) retirement_titles.emp_no,
+	retirement_titles.first_name,
+	retirement_titles.last_name,
+	retirement_titles.title
+INTO unique_titles
 FROM retirement_titles
-WHERE (birth_date BETWEEN '1952-01-01' AND '1955-12-31');
+ORDER BY retirement_titles.emp_no ASC, retirement_titles.to_date DESC
 
-SELECT *
-FROM retirement_titles
-ORDER BY retirement_titles.emp_no;
+--Create a Unique Titles table using the INTO clause
+SELECT COUNT (unique_titles.title), unique_titles.title
+INTO retiring_titles
+FROM unique_titles
+GROUP BY unique_titles.title
+ORDER BY COUNT (unique_titles.title) DESC;
 
+SELECT * FROM retiring_titles
 
-
--- Use Dictinct with Orderby to remove duplicate rows
-SELECT DISTINCT ON (______) _____,
-______,
-______,
-______
-
-INTO nameyourtable
-FROM _______
-ORDER BY _____, _____ DESC;
+--Create a table to hold the employees who are eligible to participate 
+-- in a mentorship program: Mentorship Eligibiliy.
+SELECT DISTINCT ON (employees.emp_on) employees.emp_no,
+	employees.first_name,
+	employees.last_name,
+	employees.birth_date,
