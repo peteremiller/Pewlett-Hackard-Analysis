@@ -97,25 +97,43 @@ SELECT * FROM unique_titles
 --Create a table to hold the employees who are eligible to participate 
 -- in a mentorship program: Mentorship Eligibiliy.
 --Retrieve the emp_no, first_name, last_name, and birth_date columns from the Employees table.
-SELECT DISTINCT ON (e.emp_on) e.emp_no,
-	e.first_name,
-	e.last_name,
-	e.birth_date,
+SELECT DISTINCT ON (employees.emp_no) employees.emp_no,
+	employees.first_name,
+	employees.last_name,
+	employees.birth_date,
 --Retrieve the from_date and to_date columns from the Department Employee table.
 	dept_emp.from_date,
 	dept_emp.to_date,
 --Retrieve the title column from the Titles table.
-	t.title
-INTO mentorship_eligibility
-FROM e, dept_emp, t
+	titles.title
+INTO mentorship_eligibility_all
+FROM employees
 --Use a DISTINCT ON statement to retrieve the first occurrence of the employee number 
 --for each set of rows defined by the ON () clause.
-INNER JOIN departments as d 
-ON (e.emp_no = dept_emp.emp_no)
-INNER JOIN 
-ON (e.emp_no = t.emp_no)
+INNER JOIN dept_emp 
+ON (employees.emp_no = dept_emp.emp_no)
+LEFT JOIN titles
+ON (employees.emp_no = titles.emp_no)
 --Filter the data on the to_date column to get current employees whose birth dates
 --are between January 1, 1965 and December 31, 1965.
-WHERE (to_date BETWEEN '1965-01-01' AND '1965-12-31')
+WHERE (employees.birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 --Order the table by the employee number.
-ORDER BY e.emp_no
+ORDER BY employees.emp_no;
+
+DROP TABLE mentorship_eligibility_full
+
+SELECT * FROM mentorship_eligibility_all;
+
+SELECT DISTINCT ON (emp_no) emp_no,
+	first_name,
+	last_name,
+	birth_date,
+	from_date,
+	to_date,
+	title
+INTO mentorship_eligibility
+FROM mentorship_eligibility_all
+ORDER BY emp_no, to_date DESC;
+
+DROP TABLE mentorship_eligibility
+SELECT * FROM mentorship_eligibility;
