@@ -10,8 +10,9 @@ The analysis of the PH data revealed some interesting trends and possible opport
 
 
 
-<img src="employees_per_dept.png">
-(fig. 1- Represents the total number of employees per dapartment) 
+<img src="employees_per_dept.png">(fig. 1- Represents the total number of employees per dapartment) 
+
+
 
 
 
@@ -23,8 +24,7 @@ The analysis of the PH data revealed some interesting trends and possible opport
 
 
 
-<img src="retiring_titles.png">                                                 
-(fig. 2- Represents the total number of employees eligible by title) 
+<img src="retiring_titles.png">(fig. 2- Represents the total number of employees eligible by title) 
 
 
 
@@ -38,8 +38,7 @@ The analysis of the PH data revealed some interesting trends and possible opport
 
 
 
-<img src="dept_name.png">
-fig. 3 Repreents the number of departments and the name of the department
+<img src="dept_name.png">fig. 3 Repreents the number of departments and the name of the department
 
 
 
@@ -52,8 +51,7 @@ fig. 3 Repreents the number of departments and the name of the department
 
 
 
-<img src="total_num.png">                                                                                                
-fig 4. represents the total number of employees at PH 
+<img src="total_num.png">fig 4. represents the total number of employees at PH 
 
 
 
