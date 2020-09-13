@@ -11,7 +11,9 @@ The analysis of the PH data revealed several interesting trends. I will provide 
 
 1.) The majority of possible retirements is found in Senior Engineers(29,414) and Senior Staff(28,254). The data reveals tenure has played a large role in populating the majority of Senior level positions. "How many Senior Engineers and Senior Staff are working at PH currently?"
 
-<img src="Data/retiring_itles 
+<img src="Analysis_Projects_Folder/Pewlett-Hackard-Analysis_Folder/Resources/retiring_titles.png>"
+     
+     
 
 2.)
 
