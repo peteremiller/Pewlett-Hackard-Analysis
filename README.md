@@ -10,23 +10,24 @@ The analysis of the PH data revealed some interesting trends and possible opport
 
 
 
-fig. 1
-<img src="employees_per-dept.png">
+
+<img src="employees_per_dept.png">
 
 
 
 <img src="retiring_titles.png">                                                 
 
 
-fig.2
-<img src="total_nums">                                                                                                
+
+<img src="dept_name.png">
 
 
-fig. 3
-<img src="dept_name.png">    
 
-     
-     
+<img src="total_nums.png">                                                                                                
+
+
+
+  
 
 
 1.) The majority of possible retirements is found in Senior Engineers(29,414) and Senior Staff(28,254)(fig. 1). The data reveals tenure has played a large role in populating the majority of Senior level positions. Securing a large number of the Senior level employees to serve as mentors over the next several years to 'raise up' the future leaders of the company will provide the necessary transition for PH's future. 
