@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-##Overview of the Analysis##
+Overview of the Analysis
 
 Pewlett Hackard is a maturing company employing hunderds of thousands of employees. PH is looking to the future in two ways: 1) Offer retirement packages for those who meet certain criteria, and 2) Determinig the number of persons retiring in the upcoming years who may potentially create thousands of open positions. PH desires to be prepared for the potential impact of the retirements. Bobby, a PH employee in the HR department, is leading by determining who will be retiring and how many positions will be vacated. The data Bobby has access to is contained mainly in six 'CSV' files because PH has used Excel and VBA to manage their data in the past. At this time, PH has made the decision to make a change and use the more efficient SQL to build a new employee database. I've been asked to apply my data modeling, engineering, and analysis skills to assist Bobby with the creation of a new employee database using SQL.    
 
