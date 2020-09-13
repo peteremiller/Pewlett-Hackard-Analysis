@@ -29,7 +29,7 @@ fig 4. <img src="total_num.png">
   
 
 
-1.) The majority of possible retirements is found in Senior Engineers(29,414) and Senior Staff(28,254)(fig. 1). The data reveals tenure has played a large role in populating the majority of Senior level positions. Securing a large number of the Senior level employees to serve as mentors over the next several years to 'raise up' the future leaders of the company will provide the necessary transition for PH's future. 
+1.) The majority of possible retirements is found in Senior Engineers(29,414) and Senior Staff(28,254)(fig. 2). The data reveals tenure has played a large role in populating the majority of Senior level positions. Securing a large number of the Senior level employees to serve as mentors over the next several years to 'raise up' the future leaders of the company will provide the necessary transition for PH's future. 
 
 
 2.) There is going to be a significacnt number of retirements possible in the areas where engineers are employeed. However, it appears the data suggests areas including sales,customer cervice, and human resources do not have the same urgency for transitional leadership. PH may need to streamline their departments until appropriate hires or promotions are made to fill the critical positions in departments that focus on research, development, production, and quality management (fig. 3).
@@ -48,7 +48,7 @@ I will provide a high-level responses to the following questions and provide two
 
 
 1.) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Looking at fig. 1 above, if all employees who are eligible retired, the segment represents 90,398 employees. The data reveals in fig.## that the total number of employees is 300,024 (Employees.csv)(fig. 2). Thirty percent of PH's employees are eligible for retirement based on the specific criteria established.  
+Looking at fig. 1 above, if all employees who are eligible retired, the segment represents 90,398 employees. The data reveals in fig.## that the total number of employees is 300,024 (Employees.csv)(fig. 2). Thirty percent of PH's employees are eligible for retirement based on the specific criteria established (fig. 1).  
 
 
 2.) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
