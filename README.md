@@ -10,26 +10,30 @@ The analysis of the PH data revealed some interesting trends and possible opport
 
 
 
-(fig. 1- Represents the total number of employees per dapartment) 
 <img src="employees_per_dept.png">
+(fig. 1- Represents the total number of employees per dapartment) 
 
 
-fig. 2 Represents the total number of employees who meet the specific criteria for retirement
+
+ 
+
 <img src="retiring_titles.png">                                                 
+(fig. 2- Represents the total number of employees eligible by title) 
 
 
 
-fig. 3 Repreents the number of departments and the name of the department
+
+
 <img src="dept_name.png">
+fig. 3 Repreents the number of departments and the name of the department
 
 
 
-fig 4. represents the total number of employees at PH 
+
+
 <img src="total_num.png">                                                                                                
+fig 4. represents the total number of employees at PH 
 
-
-
-  
 
 
 1.) The majority of possible retirements is found in Senior Engineers(29,414) and Senior Staff(28,254)(fig. 2). The data reveals tenure has played a large role in populating the majority of Senior level positions. Securing a large number of the Senior level employees to serve as mentors over the next several years to 'raise up' the future leaders of the company will provide the necessary transition for PH's future. 
@@ -63,23 +67,3 @@ this concludes the PH analysis README. PEM
 
 
 
-
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
-
-Overview of the analysis:
-
-The purpose of the new analysis is well defined. (3 pt)
-Results:
-
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
-Summary:
-
-The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
