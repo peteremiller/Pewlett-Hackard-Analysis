@@ -1,11 +1,27 @@
 # Pewlett-Hackard-Analysis
 ##Overview of the Analysis##
 
-Pewlett Hackard is a maturing company with thousands of employees. PH is looking to the future in two ways: 1) Offer retirement packages for those who meet certain criteria, and 2) The number of persons reiring in the upcoming years will potentially create thousands of open positions and PH desires to be prepared for the potential impact of the retirements. Bobby, a PH employee in the HR department, is trying to help PH prepare for the upcoming retirements by determining who will be retiring and how many positions will be vacated. The data Bobby has access to is contained mainly in six 'CSV' files because PH has used Excel and VBA to manage their data. At this time, PH has made the decision to use SQL to build a new employee database. I've been asked to apply my data modeling, engineering, and analysis skills to assist Bobby with the creation of a new employee database using SQL.    
+Pewlett Hackard is a maturing company with thousands of employees. PH is looking to the future in two ways: 1) Offer retirement packages for those who meet certain criteria, and 2) The number of persons reiring in the upcoming years will potentially create thousands of open positions and PH desires to be prepared for the potential impact of the retirements. Bobby, a PH employee in the HR department, is leading the preparation for the upcoming retirements by determining who will be retiring and how many positions will be vacated. The data Bobby has access to is contained mainly in six 'CSV' files because PH has used Excel and VBA to manage their data. At this time, PH has made the decision to use SQL to build a new employee database. I've been asked to apply my data modeling, engineering, and analysis skills to assist Bobby with the creation of a new employee database using SQL.    
+
 
 Results of the Analysis
 
-I will provide four major points for consideration. Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+The analysis of the PH data revealed several interesting trends. I will provide four major points for consideration.  
+
+
+1.) The majority of possible retirements is found in Senior Engineers(29,414) and Senior Staff(28,254). The data reveals tenure has played a large role in populating the majority of Senior level positions. "How many Senior Engineers and Senior Staff are working at PH currently?"
+
+<img src="Data/retiring_itles 
+
+2.)
+
+
+3.)
+
+
+4.)
+
+
 
 Summary 
 
