@@ -9,13 +9,15 @@ Results of the Analysis
 The analysis of the PH data revealed several interesting trends. I will provide four major points for consideration.  
 
 
-1.) The majority of possible retirements is found in Senior Engineers(29,414) and Senior Staff(28,254). The data reveals tenure has played a large role in populating the majority of Senior level positions. "How many Senior Engineers and Senior Staff are working at PH currently?"
+1.) The majority of possible retirements is found in Senior Engineers(29,414) and Senior Staff(28,254)(fig. 1). The data reveals tenure has played a large role in populating the majority of Senior level positions. Some of the Senior level employees will need to serve as mentors if PH is going to 'raise up' the future leaders of their company. currently there are XXXX Senior Engineers who do not meet the criteria for retirement. There are XXXX Senior Staff who do not meet the criteria for retirement at ths time.
 
-<img src="retiring_titles.png">
+fig. 1
+<img src="retiring_titles.png"> 
+
      
      
 
-2.)
+2.) There is going to be a .............. or PH may need to streamline their departments until appropriate hires are made to fill the critical needs.
 
 
 3.)
@@ -27,12 +29,13 @@ The analysis of the PH data revealed several interesting trends. I will provide 
 
 Summary 
 
-I will provide a high-level responses to the following questions and include then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+I will provide a high-level responses to the following questions and provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 1.) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+Looking at fig. 1 above, if all employees, who are eligible decide to retire, the segment represents 90,398 employees. The data reveals in fig.## that the total number of employees is 300,024 (Employees.csv). Thirty percent of the employees at PH are eligible for retirement based on the specific criteria established. 
 
 
 2.) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-
+Staging the "silver tsunami" to sweep through the departments of PH over the next three to five years is a highly desireable model. The large number of Senior Engineers and Senior Staff will provide the potential for a paradym shift in departmental leadership. A staged approach will give time for Senior Level employees to adequately pass along critical information and practices while encouraging new networks of relationships among those who are identified to serve as the next leaders. Investing in benchmarking hiring policies and procedures is highly recommended.   
 
 
 
