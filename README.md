@@ -10,19 +10,22 @@ The analysis of the PH data revealed some interesting trends and possible opport
 
 
 
-
-fig. 1 <img src="employees_per_dept.png">
-
-
-fig. 2 <img src="retiring_titles.png">                                                 
+(fig. 1- Represents the total number of employees per dapartment) 
+<img src="employees_per_dept.png">
 
 
-
-fig. 3 <img src="dept_name.png">
+fig. 2 Represents the total number of employees who meet the specific criteria for retirement
+<img src="retiring_titles.png">                                                 
 
 
 
-fig 4. <img src="total_num.png">                                                                                                
+fig. 3 Repreents the number of departments and the name of the department
+<img src="dept_name.png">
+
+
+
+fig 4. represents the total number of employees at PH 
+<img src="total_num.png">                                                                                                
 
 
 
@@ -32,10 +35,10 @@ fig 4. <img src="total_num.png">
 1.) The majority of possible retirements is found in Senior Engineers(29,414) and Senior Staff(28,254)(fig. 2). The data reveals tenure has played a large role in populating the majority of Senior level positions. Securing a large number of the Senior level employees to serve as mentors over the next several years to 'raise up' the future leaders of the company will provide the necessary transition for PH's future. 
 
 
-2.) There is going to be a significacnt number of retirements possible in the areas where engineers are employeed. However, it appears the data suggests areas including sales,customer cervice, and human resources do not have the same urgency for transitional leadership. PH may need to streamline their departments until appropriate hires or promotions are made to fill the critical positions in departments that focus on research, development, production, and quality management (fig. 3).
+2.) There is going to be a significacnt number of retirements possible in the areas where engineers are employeed. However, it appears the data suggests areas including sales,customer cervice, and human resources do not have the same urgency for transitional leadership. PH may need to streamline their departments until appropriate hires or promotions are made to fill the critical positions in departments that focus on development(d005), production(d004), sales(d007), customer service(d009), research(d008), marketing(d001 and quality management(d006)(fig. 1).
 
 
-3.) The number of managers leading the nine departments who are leigible for retirement is low (2)(fig. 1). This data suggests the persons who are responsible for departmental leadership may remain consistent, unless managers are promoted to senior leadership positions. Otherwise, if managers are viewed as primary candidates for senior positions, there will need to be emphasis placed on preparing for an equally significant shift in mid-level leadership at PH. 
+3.) The number of managers leading the nine departments who are leigible for retirement is low (2)(fig. 2). This data suggests the persons who are responsible for departmental leadership may remain consistent, unless managers are promoted to senior leadership positions. Otherwise, if managers are viewed as primary candidates for senior positions, there will need to be emphasis placed on preparing for an equally significant shift in mid-level leadership at PH. 
 
 
 4.) The number of persons eligible to participate as mentors corresponds to the departments that will need transitional leadership and new hires. That is, the departments that have been populated over time with maturing employees, many who have reached senior level positions, are now preparing for possible retirement. It makes sense that the departments who employ the greatest number of employees qualifying for retirement also represent the departments requiring the largest numbers of mentors. It may be possible for cross-department mentoring in some instances.   
@@ -48,7 +51,7 @@ I will provide a high-level responses to the following questions and provide two
 
 
 1.) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Looking at fig. 1 above, if all employees who are eligible retired, the segment represents 90,398 employees. The data reveals in fig.## that the total number of employees is 300,024 (Employees.csv)(fig. 2). Thirty percent of PH's employees are eligible for retirement based on the specific criteria established (fig. 1).  
+Looking at fig. 1 above, if all employees who are eligible retired, the segment represents 90,398 employees. The data reveals in fig.## that the total number of employees is 300,024 (Employees.csv)(fig. 4). Thirty percent of PH's employees are eligible for retirement based on the specific criteria established (fig. 2). The hardest hit areas, largest number of eligible persons to retire, represent the core of PH's profitablity (ie., research, sales, development and production). 
 
 
 2.) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
