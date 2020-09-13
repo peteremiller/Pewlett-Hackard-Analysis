@@ -17,8 +17,15 @@ The analysis of the PH data revealed some interesting trends and possible opport
 
  
 
+
+
+
 <img src="retiring_titles.png">                                                 
 (fig. 2- Represents the total number of employees eligible by title) 
+
+
+
+
 
 
 
@@ -31,8 +38,14 @@ fig. 3 Repreents the number of departments and the name of the department
 
 
 
+
+
+
 <img src="total_num.png">                                                                                                
 fig 4. represents the total number of employees at PH 
+
+
+
 
 
 
