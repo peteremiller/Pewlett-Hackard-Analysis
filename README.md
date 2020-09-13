@@ -38,6 +38,8 @@ fig. 3
 Summary 
 
 I will provide a high-level responses to the following questions and provide two additional examples that may provide more insight into the upcoming "silver tsunami."
+
+
 1.) How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Looking at fig. 1 above, if all employees who are eligible retired, the segment represents 90,398 employees. The data reveals in fig.## that the total number of employees is 300,024 (Employees.csv)(fig. 2). Thirty percent of PH's employees are eligible for retirement based on the specific criteria established.  
 
