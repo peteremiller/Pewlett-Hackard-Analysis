@@ -11,11 +11,15 @@ The analysis of the PH data revealed some interesting trends and possible opport
 
 
 fig. 1
+<img src="employees_per-dept.png">
+
+
+
 <img src="retiring_titles.png">                                                 
 
 
 fig.2
-<img src="employees_per_dept.png">                                                                                                
+<img src="total_nums">                                                                                                
 
 
 fig. 3
