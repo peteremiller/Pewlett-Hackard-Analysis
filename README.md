@@ -24,7 +24,7 @@ fig. 3
      
      
 
-2.) There is going to be a .............. or PH may need to streamline their departments until appropriate hires are made to fill the critical needs.
+2.) There is going to be a significacnt number of retirements possible in the areas where engineers are employeed. However, it appears the data suggests areas including sales,customer cervice, human resources fo not have the same urgency for transitional leadership as  that the areas .............. or PH may need to streamline their departments until appropriate hires are made to fill the critical needs.
 
 
 3.) The number of managers leading the nine departments who are leigible for retirement is low (2)(fig. 1). This data suggests the persons who are responsible for departmental leadership may remain consistent, unless managers are promoted to senior leadership positions. Otherwise, if managers are viewed as primary candidates for senior positions, there will need to be emphasis placed on preparing for an equally significanrt shift in mid-level leadership at PH. 
