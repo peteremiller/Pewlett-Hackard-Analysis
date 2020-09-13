@@ -23,7 +23,7 @@ The analysis of the PH data revealed some interesting trends and possible opport
 
 
 
-<img src="total_nums.png">                                                                                                
+<img src="total_num.png">                                                                                                
 
 
 
