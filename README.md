@@ -24,7 +24,7 @@ The analysis of the PH data revealed some interesting trends and possible opport
 
 
 
-<img src="retiring_titles.png">(fig. 2- Represents the total number of employees eligible fir retirement by title) 
+<img src="retiring_titles.png">(fig. 2- Represents the total number of employees eligible for retirement by title) 
 
 
 
