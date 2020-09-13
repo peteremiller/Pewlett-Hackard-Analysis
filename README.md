@@ -15,7 +15,7 @@ fig. 1
 
 
 
-(img src="employees_per_dept.png">                                                                                                <img src="dept_name.png">    
+<img src="employees_per_dept.png">                                                                                                <img src="dept_name.png">    
 
      
      
