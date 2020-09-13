@@ -14,8 +14,12 @@ fig. 1
 <img src="retiring_titles.png">                                                 
 
 
+fig.2
+<img src="employees_per_dept.png">                                                                                                
 
-<img src="employees_per_dept.png">                                                                                                <img src="dept_name.png">    
+
+fig. 3
+<img src="dept_name.png">    
 
      
      
